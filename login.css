@@ -1,0 +1,14 @@
+body{
+    background: rgb(154, 231, 189);
+}
+
+fieldset{
+    text-align: center;
+}
+
+legend{
+    background-color: bisque;
+    font-size: 30px;
+    padding: 10px;
+}
+
